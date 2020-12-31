@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test sprawdza, czy w przypadku próby rejestracji użytkownika, który już wcześniej został dodany wyświetla się odpowiedni błąd</description>
+   <name>TC_02_Niezalogowany_Register_Nieprawidlowy_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8c9b41c-a9db-408c-9da2-65112c34dcfb</testCaseGuid>
+</TestCaseEntity>

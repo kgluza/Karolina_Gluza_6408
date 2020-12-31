@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testy sprawdzające czy do oferowanych produktów przypisana jest odpowiednia kategoria</description>
+   <name>TC_01_Produkty_ViewAllMen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd085b55-45d8-4a6f-90e9-6f812eb6a39c</testCaseGuid>
+</TestCaseEntity>

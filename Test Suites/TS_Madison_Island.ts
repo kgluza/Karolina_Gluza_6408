@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Selenium Academy Demo Store</description>
+   <name>TS_Madison_Island</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d391e4e3-852a-4cab-a70e-b18ec203cb48</testSuiteGuid>
+   <testCaseLink>
+      <guid>3521f248-0b74-45a6-b08b-1c4b97ef9a83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Footer/TC_01_Odnosniki_Facebook</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c2728347-fad9-433a-968b-cb81d50644fb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1da3e469-6a26-4c86-8d88-f0150bc91a73</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Footer/TC_02_Odnosniki_Twitter</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>67458065-dc79-4b86-877a-ba8f5ab882b2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bb051d59-f669-4728-a000-24651623ab54</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Footer/TC_03_Odnosniki_YouTube</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f7a3979b-fe09-40be-a30a-58fd09fd85e0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a6cac68-a223-4825-bfae-3e8e5a56338a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Footer/TC_04_Odnosniki_Pinterest</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d1732d1a-0c71-4b59-94e0-73c478add0de</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>051e5824-f768-4b2e-872c-00760846efa5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/My_Account/TC_01_Niezalogowany_My_Account_Formularz_Rejestracji_Obecny</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6fd87dcc-82ec-42f8-9368-89d7ed7f4be7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/My_Account/TC_02_Niezalogowany_My_Account_Formularz_Logowania_Obecny</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bd77d56f-4c47-4bdb-9392-78a31c40fd0f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Register/TC_01_Niezalogowany_Register_Konto_Juz_istnieje</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea9a7bac-d51c-4f86-811a-a3b17d7c6965</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2be60513-1028-4668-9be2-dcb0acc7a004</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d5ff03f4-f130-4e32-bf56-088002aa117f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e0d092aa-fc4a-4f41-bd85-65426d59740e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c024cbbe-a72c-4146-aa15-3ab63a37dd77</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Register/TC_02_Niezalogowany_Register_Nieprawidlowy_Email</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

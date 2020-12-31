@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie poprawności działania odnośników w stopce</description>
+   <name>TC_01_Odnosniki_Facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d53e766c-d9a6-4ee9-95ac-3193c9170d6e</testCaseGuid>
+   <variable>
+      <defaultValue>'https://facebook.com/'</defaultValue>
+      <description></description>
+      <id>c2728347-fad9-433a-968b-cb81d50644fb</id>
+      <masked>false</masked>
+      <name>ExpectedUrl</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie poprawności działania odnośników w stopce</description>
+   <name>TC_04_Odnosniki_Pinterest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a30687e4-5f67-46c9-9518-efb57a207483</testCaseGuid>
+   <variable>
+      <defaultValue>'https:/pinterest.com/'</defaultValue>
+      <description></description>
+      <id>d1732d1a-0c71-4b59-94e0-73c478add0de</id>
+      <masked>false</masked>
+      <name>ExpectedUrl</name>
+   </variable>
+</TestCaseEntity>

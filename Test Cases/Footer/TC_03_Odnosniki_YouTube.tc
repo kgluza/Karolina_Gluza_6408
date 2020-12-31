@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie poprawności działania odnośników w stopce</description>
+   <name>TC_03_Odnosniki_YouTube</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b819fd-f38b-40f7-aba2-2385089f35c6</testCaseGuid>
+   <variable>
+      <defaultValue>'https://twitter.com/'</defaultValue>
+      <description></description>
+      <id>f7a3979b-fe09-40be-a30a-58fd09fd85e0</id>
+      <masked>false</masked>
+      <name>ExpectedUrl</name>
+   </variable>
+</TestCaseEntity>

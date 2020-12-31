@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Zalogowanie z użyciem istniejącego użytkownika</description>
+   <name>TC_03_Logowanie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86b0ce7c-2eb0-4fdf-abba-ce103f970c94</testCaseGuid>
+</TestCaseEntity>

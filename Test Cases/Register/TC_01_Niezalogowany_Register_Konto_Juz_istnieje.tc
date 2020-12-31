@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test sprawdza, czy w przypadku próby rejestracji użytkownika, który już wcześniej został dodany wyświetla się odpowiedni błąd</description>
+   <name>TC_01_Niezalogowany_Register_Konto_Juz_istnieje</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>418f5ef6-3fb2-43f8-a69d-cd21f8f5419a</testCaseGuid>
+   <variable>
+      <defaultValue>'gluza.karolina@gmail.com'</defaultValue>
+      <description></description>
+      <id>ea9a7bac-d51c-4f86-811a-a3b17d7c6965</id>
+      <masked>false</masked>
+      <name>UserEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'Karolina'</defaultValue>
+      <description></description>
+      <id>2be60513-1028-4668-9be2-dcb0acc7a004</id>
+      <masked>false</masked>
+      <name>UserFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Gluza'</defaultValue>
+      <description></description>
+      <id>d5ff03f4-f130-4e32-bf56-088002aa117f</id>
+      <masked>false</masked>
+      <name>UserLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'KG'</defaultValue>
+      <description></description>
+      <id>e0d092aa-fc4a-4f41-bd85-65426d59740e</id>
+      <masked>false</masked>
+      <name>UserMiddleName</name>
+   </variable>
+</TestCaseEntity>

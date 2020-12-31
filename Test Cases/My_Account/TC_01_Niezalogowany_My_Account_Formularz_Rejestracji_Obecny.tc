@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Jeżeli niezalogowany użytkownik przejdzie do sekcji 'My Account', powinien mieć możliwość założenia nowego konta bez przechodzenia na inną stronę</description>
+   <name>TC_01_Niezalogowany_My_Account_Formularz_Rejestracji_Obecny</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b88edd2e-9434-47ab-a9d0-e3d2ace90d98</testCaseGuid>
+</TestCaseEntity>
